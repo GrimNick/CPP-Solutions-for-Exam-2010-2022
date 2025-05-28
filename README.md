@@ -9,6 +9,7 @@ Folder consisting of C++ solutions to all question bank (old is gold questions) 
 - These solutions potray all possible solutions required to obtain full marks of 50/50 in examination where 50 marks if of programming and remaining 50 is theory.
 
 > Even without the question bank, you can understand the concept from the solution itself.
+
 > This assumes pokhara university hasnt revised the course drastically.
 
 ---
@@ -18,5 +19,15 @@ Folder consisting of C++ solutions to all question bank (old is gold questions) 
 
 ## Complete guide of above code in below video
 
-[![Watch the video](https://img.youtube.com/vi/zkLu0Qn2u1M/0.jpg)](https://www.youtube.com/watch?v=zkLu0Qn2u1M)
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=zkLu0Qn2u1M">
+    <img src="https://img.youtube.com/vi/zkLu0Qn2u1M/0.jpg" alt="Watch the video">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=zkLu0Qn2u1M">
+    Click me to watch
+  </a>
+</p>
 
