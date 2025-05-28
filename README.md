@@ -1,11 +1,11 @@
 # CPP-Solutions-for-Exam-2010-2022
-Folder consisting of C++ solutions to all question bank (old is gold questions) of 2nd semester, Pokhara University. 
+Folder consisting of C++ solutions to all question bank 2010-2022 (old is gold questions) of 2nd semester, Pokhara University. 
 
 
 ---
 
 ## Assumptions
-- You must have the relevant question bank of B.E. computer Pokhara University to match with the answers.
+- You must have the relevant question bank of B.E. computer Pokhara University to match with the answers. (if you do not have questions, you can watch the video below)
 - These solutions potray all possible solutions required to obtain full marks of 50/50 in examination where 50 marks if of programming and remaining 50 is theory.
 
 > Even without the question bank, you can understand the concept from the solution itself.
