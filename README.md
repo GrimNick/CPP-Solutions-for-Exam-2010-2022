@@ -17,6 +17,8 @@ Folder consisting of C++ solutions to all question bank 2010-2022 (old is gold q
 ## Understanding
 - You can gain good understanding by simply studying / observing these solutions. There is a better way if you are a beginner or would like explanation. I had completed creating these way back during my 2nd semester where i went live and completed all of these within a set time. In the livestream i have defined my way of thinking and procedure of writing these codes.
 
+---
+
 ## Complete guide of above code in below video
 
 <p align="center">
